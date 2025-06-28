@@ -1,15 +1,24 @@
-# SteganohuntGame
-java-based cybersecurity game to detect steganography using custom rules.
-SteganoHuntGame: An Interactive Steganography Challenge
+# Steganohunt Custom Rule-Based Game 🕵‍♂
 
-SteganoHuntGame is an engaging and interactive java-based project designed to test and enhance your steganography skills. This game challenges players to uncover hidden messages and data embedded within various digital media files, simulating real-world scenarios where information is concealed for security, privacy, or fun.
+A Java-based offline cybersecurity game that simulates forensic analysis by letting players define their own detection rules for steganographic and obfuscated messages.
 
-Key Features:
+## 🔐 Features:
+- Rule Builder: keywords, symbols, leetspeak detection
+- Message Classification: clean, obfuscated, or hidden
+- Real-time Scoring
+- CLI-based and lightweight
 
-Hands-on puzzles involving image and audio steganography
+## 💻 How to Run:
+1. Open in any Java IDE or terminal
+2. Compile:
+   javac SteganohuntCustomRules.java
+3. Run:
+   java SteganohuntCustomRules
 
-Realistic scenarios for practicing data extraction and analysis
+## 🧠 Skills Practiced:
+- Java programming
+- Cyber threat analysis
+- Rule-based classification logic
 
-Ideal for cybersecurity enthusiasts, students, and anyone interested in the art of hidden communication
-
-Whether you’re looking to sharpen your forensic analysis skills or simply enjoy solving digital mysteries, SteganoHuntGame provides an immersive and educational experience.
+## 📄 Author:
+- Rudresha R K, B.Tech (Cybersecurity), Presidency University
